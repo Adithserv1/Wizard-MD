@@ -30,17 +30,17 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": false,
-			"value": "AJMAL x ABHI"
+			"value": "🌈⃝𝘿𝙖𝙧𝙠𝙚𝙭𝙚⃝☁️"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": ""
+			"value": "917510569273"
 		},
 		"Caption": {
 			"description": "Add the owner location here and if you want to use the default name then just leave it",
 			"required": false,
-			"value": "Power Is Power!"
+			"value": "Hehe!"
 		},
 		"WELCOME": {
 			"description": "Type true if you want to enable welcome by default",
@@ -55,7 +55,7 @@
 		"WATERMARK": {
 			"description": "Add your watermark here",
 			"required": true,
-			"value": "Wizard MD by AJMAL x ABHI"
+			"value": "Wizard MD by 🌈⃝𝘿𝙖𝙧𝙠𝙚𝙭𝙚⃝☁️"
 		},
 		"STICKER_PACK_NAME": {
 			"description": "Add sticker pack name here",
@@ -65,7 +65,7 @@
 		"STICKER_AUTHOR_NAME": {
 			"description": "Add sticker pack author name here",
 			"required": true,
-			"value": "AJMAL x ABHI"
+			"value": "🌈⃝𝘿𝙖𝙧𝙠𝙚𝙭𝙚⃝☁️"
 		},
 		"REACT_EMOJI": {
 			"description": "Add any emoji here.",
